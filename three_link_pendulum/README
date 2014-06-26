@@ -1,0 +1,10 @@
+This example is the symbolic equations of motions derivation of a three
+link conical pendulum.
+The links of the pendulum are also considered to have mass, and are represented
+as RigidBodies. The the end points of the links are represented by Particles.
+The pendulum has six degrees of freedom.
+
+To run this program type in terminal:
+
+python three_link_pendulum.py
+
